@@ -33,4 +33,4 @@ Objective: Build a machine learning model to predict the likelihood of a custome
 3. Integrated Insights: Incorporate Loyalty Tiers from Task 1 into the predictive model to improve targeting for high-value customers.
 
 Author: Rizki Amanda Putri
-\n Date: April 2026
+<br> Date: April 2026
